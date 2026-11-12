@@ -51,7 +51,7 @@ Type your grocery list in plain English. Shelfy finds every item, tells you exac
 
 📹 **Video demonstration:** [Watch on Google Drive](https://drive.google.com/drive/folders/1gX56rXOlzwE3b60ZS6uFF-Ebx3De7a05?usp=sharing)
 
-📘 **Full user guide:** [`docs/user_guide.pdf`](docs/user_guide.pdf)
+📘 **Full user guide:** [`User Guide`](docs/user_guide.pdf)
 
 <table>
   <tr>
