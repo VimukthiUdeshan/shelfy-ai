@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Shelfy.png" alt="Shelfy AI logo" width="75"/>
+<img src="assets/Shelfy.png" alt="Shelfy AI logo" width="60"/>
 
 # Shelfy AI
 
