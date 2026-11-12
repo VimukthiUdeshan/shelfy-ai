@@ -1,0 +1,24 @@
+# ---------- Secrets (NEVER commit these) ----------
+client_secrets.json
+firebase_config.json
+.env
+*.pem
+*.key
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---------- Generated output ----------
+reports/*.pdf
+!reports/.gitkeep
+
+# ---------- OS / editor ----------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
